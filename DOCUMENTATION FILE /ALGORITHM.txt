@@ -1,0 +1,10 @@
+ 🔄 Algorithm
+Step1: Start the program.
+Step2: Declare variables for floor and room.
+Step3: Take input from the user (floor and room).
+Step4: Call the function displayLab().
+Inside the function:
+Step5: Check floor and room using if-else conditions.
+Step6: If matched → display lab details.
+Step7: Else → display “Invalid Floor or Room”.
+Step8: End program.
