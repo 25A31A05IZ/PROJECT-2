@@ -1,0 +1,11 @@
+⚙️ Methodology
+
+The project follows a simple procedural approach:
+The user provides input through the console
+The system processes input using conditional statements (if-else)
+Based on matching conditions, relevant lab data is displayed
+If no match is found, an error message is shown
+This approach ensures:
+Simplicity
+Fast execution
+Easy modification and scalability
