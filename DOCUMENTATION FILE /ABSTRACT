@@ -1,0 +1,6 @@
+Abstract
+The Pragati Lab Information System is a simple C++-based console application 
+designed to provide quick access to laboratory details in an academic environment.
+The system allows users to input a floor and room number to retrieve information 
+such as the number of systems, fans, lights, chairs, projectors, and air conditioners available in a lab.
+This reduces dependency on manual inquiries and improves efficiency in accessing lab-related data.
