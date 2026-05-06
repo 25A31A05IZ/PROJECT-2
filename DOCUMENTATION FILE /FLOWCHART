@@ -1,0 +1,16 @@
+🔁 Flowchart 
+
+Start
+  ↓
+Input Floor & Room
+  ↓
+Check Conditions (if-else)
+  ↓
+Match Found?
+  ↓        ↓
+Yes        No
+ ↓          ↓
+Display     Show Error
+Details     Message
+  ↓
+ End
